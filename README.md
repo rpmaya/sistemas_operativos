@@ -1,2 +1,3 @@
-# sistemas_operativos
-u-tad
+# Laboratorio de Redes y Sistemas Operativos
+
+ 
