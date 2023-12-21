@@ -23,7 +23,7 @@ Imprime la lista de los colores primarios utilizando una bucle for.
 
 ## Ejercicio 3.	 
 
-Utilizando un bucle for imprime los números impares que haya del 1 al 100. 
+Utilizando un bucle for imprime los números impares  que haya del 1 al 100. 
  
 ```
  
